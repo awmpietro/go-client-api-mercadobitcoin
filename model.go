@@ -1,4 +1,4 @@
-package mcdbitcoindd
+package mcdbcgoclient
 
 type TickerData struct {
 	High float32 `json:"high"`

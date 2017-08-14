@@ -1,4 +1,4 @@
-package mcdbitcoindd
+package mcdbcgoclient
 
 import (
 	"encoding/json"
