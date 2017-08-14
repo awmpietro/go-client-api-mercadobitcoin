@@ -9,7 +9,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/awmpietro/mcdbitcoindd"
+	"github.com/awmpietro/mcdbcgoclient"
 )
 
 func main() {
